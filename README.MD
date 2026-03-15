@@ -45,16 +45,6 @@ Através da **Bonine Web**, ajudo empresas a terem uma presença digital profiss
 
 ---
 
-## 🏆 Conquistas
-
-<p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Henrique820&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Projeto em destaque
 
 ### Bonine Web Elevate
