@@ -33,18 +33,6 @@ Através da **Bonine Web**, ajudo empresas a terem uma presença digital profiss
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Henrique820&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique820&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Projeto em destaque
 
 ### Bonine Web Elevate
