@@ -45,7 +45,7 @@ Site moderno desenvolvido para elevar a presença digital de negócios.
 
 ## 🌐 Contato
 
-🌍 https://bw.hsbonine.com 
+🌍 https://hsbonine.com 
 
 📧Rickbonine820@gmail.com
 
